@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Nuestra aplicación utiliza la cámara para capturar fotografías de los artículos y servicios que ofrece el proveedor.";
+NSPhotoLibraryUsageDescription = "Nuestra aplicación utiliza la biblioteca de fotos para mostrar fotografías de los artículos y servicios que ofrece el proveedor.";
+NSLocationWhenInUseUsageDescription = "Para agregar la ubicación de los artículos y servicios con fines de seguimiento, la aplicación requiere acceso a su ubicación.";
+PermissionGroupNotification = "Se envían notificaciones cada vez que hay nuevos artículos disponibles.";
