@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "663942252909",
+    "firebase_url": "https://essentialoils-fc5cd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "essentialoils-fc5cd",
+    "storage_bucket": "essentialoils-fc5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663942252909:android:f7bda63c9c14a9fc58b264",
+        "android_client_info": {
+          "package_name": "com.corpoespiritoshop.MysticBlend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663942252909-bvvjnfglgglf308u37eru0hpltk7cdos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.corpoespiritoshop.MysticBlend",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhERjbsUxK9-R35EwaLpzxhlryMlZ9yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663942252909-4scg1cgaifrqmansgek54q2no9scd4si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.eros86"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663942252909:android:500ca149840427e058b264",
+        "android_client_info": {
+          "package_name": "com.github.andreunifi.oilmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663942252909-c0nh4ukomvtvc4v0mn18vrqnsdugtmar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.andreunifi.oilmarketplace",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhERjbsUxK9-R35EwaLpzxhlryMlZ9yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663942252909-4scg1cgaifrqmansgek54q2no9scd4si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.eros86"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663942252909:android:5c95acdd3697d2bd58b264",
+        "android_client_info": {
+          "package_name": "com.gmail.eros86"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663942252909-ji12h4ra2c8bg9ip85umca95pa77oie8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.eros86",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhERjbsUxK9-R35EwaLpzxhlryMlZ9yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663942252909-4scg1cgaifrqmansgek54q2no9scd4si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.eros86"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663942252909:android:0966188927a2966558b264",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhERjbsUxK9-R35EwaLpzxhlryMlZ9yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663942252909-l7nmrosv39dfhebvbqrovbv6ctgmnrk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663942252909-4scg1cgaifrqmansgek54q2no9scd4si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmail.eros86"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
